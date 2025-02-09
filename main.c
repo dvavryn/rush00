@@ -1,9 +1,7 @@
+void	rush(int x, int y);
 
-//prototype please change
-void rush(int x, int y);
-
-int main()
+int	main(void)
 {
-    rush(5, 5); //u can exchange the numbers
-    return (0);
+	rush(7, 4);
+	return (0);
 }
