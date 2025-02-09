@@ -1,5 +1,7 @@
 Rush00
 
+Version 0
+
 1.  File compiles as wanted
 2.  File executes as wanted
 3.  Norminette puts out 4 errors
