@@ -2,6 +2,6 @@ void	rush(int x, int y);
 
 int	main(void)
 {
-	rush(7, 4);
+	rush(10, 10);
 	return (0);
 }
